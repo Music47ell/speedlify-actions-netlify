@@ -1,5 +1,7 @@
 # Speedlify + GitHub Actions + Netlify
 
+![Run Speedlify](https://github.com/Music47ell/speedlify-actions-netlify/workflows/Run%20Speedlify/badge.svg)
+
 This repository demonstrates how you can configure GitHub Actions `workflow` to **continuously measure your website Lighthouse score** by using Speedlify + GitHub Actions for free. Then deploy the dashboard to [Netlify](https://www.netlify.com/).
 This repository is based on the workflow in [ThewApp/speedlify-actions](https://github.com/ThewApp/speedlify-actions) and [ThewApp/speedlify-actions-vercel](https://github.com/ThewApp/speedlify-actions-vercel).
 
@@ -29,3 +31,7 @@ By default, the workflow runs daily at 06:00. You can change by editing [line 7]
 Here's a [list of cron examples](https://crontab.guru/examples.html)
 
 ---
+
+[Demo site](https://speedlify-actions-netlify.netlify.app/).
+
+Read more about this repository [in my article](https://www.news47ell.com/projects/speedlify-actions-vercel/).
