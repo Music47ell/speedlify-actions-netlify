@@ -1,5 +1,14 @@
 {
   "sample": {
     "timestamp": 1604429707225
+  },
+  "netlify": {
+    "timestamp": 1604431749910
+  },
+  "ssg": {
+    "timestamp": 1604432080112
+  },
+  "test-runners": {
+    "timestamp": 1604432379433
   }
 }

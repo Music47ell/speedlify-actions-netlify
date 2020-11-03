@@ -1,0 +1,46 @@
+{
+  "url": "https://eslint.org/",
+  "requestedUrl": "https://eslint.org/",
+  "timestamp": 1604432178697,
+  "ranks": {
+    "hundos": 5,
+    "performance": 9,
+    "accessibility": 4,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.85,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 366
+  },
+  "firstContentfulPaint": 1575.9160000000002,
+  "speedIndex": 2365.8802099714644,
+  "largestContentfulPaint": 3828.0229999999997,
+  "totalBlockingTime": 144,
+  "cumulativeLayoutShift": 0.002302538553873698,
+  "timeToInteractive": 4971.18,
+  "maxPotentialFirstInputDelay": 326,
+  "timeToFirstByte": 21.679000000000002,
+  "weight": {
+    "summary": "25 requests • 453 KiB",
+    "total": 464287,
+    "image": 157533,
+    "imageCount": 3,
+    "script": 116206,
+    "scriptCount": 5,
+    "document": 3962,
+    "font": 137279,
+    "fontCount": 5,
+    "stylesheet": 29801,
+    "stylesheetCount": 3,
+    "thirdParty": 205115,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 410,
+    "violations": 6
+  }
+}
