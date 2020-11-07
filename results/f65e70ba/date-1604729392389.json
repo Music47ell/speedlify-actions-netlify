@@ -1,0 +1,46 @@
+{
+  "url": "https://qunitjs.com/",
+  "requestedUrl": "https://qunitjs.com/",
+  "timestamp": 1604730570638,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1063.583,
+  "speedIndex": 1063.583,
+  "largestContentfulPaint": 1759.653,
+  "totalBlockingTime": 47,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2041.9030000000002,
+  "maxPotentialFirstInputDelay": 90,
+  "timeToFirstByte": 24.962000000000003,
+  "weight": {
+    "summary": "9 requests • 90 KiB",
+    "total": 91967,
+    "image": 4352,
+    "imageCount": 2,
+    "script": 77078,
+    "scriptCount": 3,
+    "document": 5260,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5277,
+    "stylesheetCount": 2,
+    "thirdParty": 79584,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 295,
+    "violations": 3
+  }
+}

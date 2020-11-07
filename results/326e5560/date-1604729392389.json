@@ -1,0 +1,46 @@
+{
+  "url": "https://theintern.io/",
+  "requestedUrl": "https://theintern.io/",
+  "timestamp": 1604730609737,
+  "ranks": {
+    "hundos": 9,
+    "performance": 4,
+    "accessibility": 10,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.94,
+    "accessibility": 0.48,
+    "bestPractices": 1,
+    "seo": 0.75,
+    "total": 317
+  },
+  "firstContentfulPaint": 1691.8490000000002,
+  "speedIndex": 1691.8490000000002,
+  "largestContentfulPaint": 2900.7810000000004,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.002596367730034722,
+  "timeToInteractive": 2900.7810000000004,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 216.938,
+  "weight": {
+    "summary": "11 requests • 192 KiB",
+    "total": 196198,
+    "image": 8891,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 17104,
+    "font": 133731,
+    "fontCount": 5,
+    "stylesheet": 36472,
+    "stylesheetCount": 3,
+    "thirdParty": 141983,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 707,
+    "violations": 24
+  }
+}
