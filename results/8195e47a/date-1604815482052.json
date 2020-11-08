@@ -1,0 +1,46 @@
+{
+  "url": "https://jamstackconf.com/2020/october/",
+  "requestedUrl": "https://jamstackconf.com/virtual/",
+  "timestamp": 1604815800793,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 6,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 954.6500000000001,
+  "speedIndex": 954.6500000000001,
+  "largestContentfulPaint": 1629.4444999999998,
+  "totalBlockingTime": 47,
+  "cumulativeLayoutShift": 0.006644449869791667,
+  "timeToInteractive": 2254.073,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 20.661,
+  "weight": {
+    "summary": "15 requests • 126 KiB",
+    "total": 128883,
+    "image": 235,
+    "imageCount": 1,
+    "script": 60767,
+    "scriptCount": 3,
+    "document": 11891,
+    "font": 47938,
+    "fontCount": 4,
+    "stylesheet": 7272,
+    "stylesheetCount": 3,
+    "thirdParty": 108555,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 672,
+    "violations": 1
+  }
+}
