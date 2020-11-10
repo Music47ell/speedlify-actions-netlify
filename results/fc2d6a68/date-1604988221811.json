@@ -1,0 +1,46 @@
+{
+  "url": "https://karma-runner.github.io/latest/index.html",
+  "requestedUrl": "https://karma-runner.github.io/latest/index.html",
+  "timestamp": 1604989117731,
+  "ranks": {
+    "hundos": 9,
+    "performance": 6,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.93,
+    "accessibility": 0.56,
+    "bestPractices": 0.86,
+    "seo": 0.83,
+    "total": 318
+  },
+  "firstContentfulPaint": 1059.723,
+  "speedIndex": 1742.9529771706752,
+  "largestContentfulPaint": 2947.098,
+  "totalBlockingTime": 53.5,
+  "cumulativeLayoutShift": 0.15538167317708335,
+  "timeToInteractive": 2585.723,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 14.918,
+  "weight": {
+    "summary": "19 requests • 859 KiB",
+    "total": 879999,
+    "image": 700308,
+    "imageCount": 11,
+    "script": 56601,
+    "scriptCount": 2,
+    "document": 4224,
+    "font": 98435,
+    "fontCount": 4,
+    "stylesheet": 20431,
+    "stylesheetCount": 1,
+    "thirdParty": 120529,
+    "thirdPartyCount": 11
+  },
+  "axe": {
+    "passes": 284,
+    "violations": 28
+  }
+}
