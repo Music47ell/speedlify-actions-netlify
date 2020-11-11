@@ -1,0 +1,46 @@
+{
+  "url": "https://headlesscommercesummit.com/",
+  "requestedUrl": "https://headlesscommercesummit.com/",
+  "timestamp": 1605074815684,
+  "ranks": {
+    "hundos": 12,
+    "performance": 2,
+    "accessibility": 19,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 1131.1499999999999,
+  "speedIndex": 1860.1741666127768,
+  "largestContentfulPaint": 1725.9139999999998,
+  "totalBlockingTime": 63.50000000000023,
+  "cumulativeLayoutShift": 0.002331949869791667,
+  "timeToInteractive": 3165.5445,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 288.52899999999994,
+  "weight": {
+    "summary": "18 requests • 272 KiB",
+    "total": 278999,
+    "image": 135146,
+    "imageCount": 8,
+    "script": 49402,
+    "scriptCount": 2,
+    "document": 43342,
+    "font": 46588,
+    "fontCount": 4,
+    "stylesheet": 4308,
+    "stylesheetCount": 2,
+    "thirdParty": 97517,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 392,
+    "violations": 9
+  }
+}
