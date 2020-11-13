@@ -1,0 +1,46 @@
+{
+  "url": "https://gruntjs.com/",
+  "requestedUrl": "https://gruntjs.com/",
+  "timestamp": 1605248517543,
+  "ranks": {
+    "hundos": 6,
+    "performance": 2,
+    "accessibility": 6,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.99,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "seo": 0.69,
+    "total": 341
+  },
+  "firstContentfulPaint": 1713.0560000000003,
+  "speedIndex": 1785.518159999869,
+  "largestContentfulPaint": 1722.8360000000002,
+  "totalBlockingTime": 45.99999999999977,
+  "cumulativeLayoutShift": 0.0003896225653860196,
+  "timeToInteractive": 2093.7839999999997,
+  "maxPotentialFirstInputDelay": 95.99999999999977,
+  "timeToFirstByte": 193.107,
+  "weight": {
+    "summary": "26 requests • 117 KiB",
+    "total": 119658,
+    "image": 78042,
+    "imageCount": 19,
+    "script": 19239,
+    "scriptCount": 2,
+    "document": 4251,
+    "font": 2026,
+    "fontCount": 1,
+    "stylesheet": 15896,
+    "stylesheetCount": 2,
+    "thirdParty": 20336,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 386,
+    "violations": 30
+  }
+}
