@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/pricing/business/",
+  "requestedUrl": "https://www.netlify.com/pricing/business/",
+  "timestamp": 1605334168321,
+  "ranks": {
+    "hundos": 15,
+    "performance": 13,
+    "accessibility": 15,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1268.9409999999998,
+  "speedIndex": 1588.754762843791,
+  "largestContentfulPaint": 2063.4119999999994,
+  "totalBlockingTime": 50.5,
+  "cumulativeLayoutShift": 0.1762697058783637,
+  "timeToInteractive": 3743.4934999999996,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 252.616,
+  "weight": {
+    "summary": "31 requests • 246 KiB",
+    "total": 251730,
+    "image": 10800,
+    "imageCount": 7,
+    "script": 152443,
+    "scriptCount": 12,
+    "document": 35747,
+    "font": 47909,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 152861,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 1862,
+    "violations": 5
+  }
+}
