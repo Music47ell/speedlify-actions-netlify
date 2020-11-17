@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/careers/",
+  "requestedUrl": "https://www.netlify.com/careers/",
+  "timestamp": 1605593137554,
+  "ranks": {
+    "hundos": 4,
+    "performance": 8,
+    "accessibility": 12,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1517.171,
+  "speedIndex": 1759.55536646535,
+  "largestContentfulPaint": 1939.674,
+  "totalBlockingTime": 21.5,
+  "cumulativeLayoutShift": 0.00301318359375,
+  "timeToInteractive": 3972.121,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 168.81100000000004,
+  "weight": {
+    "summary": "36 requests • 464 KiB",
+    "total": 475116,
+    "image": 227501,
+    "imageCount": 12,
+    "script": 153681,
+    "scriptCount": 12,
+    "document": 41234,
+    "font": 47940,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 153257,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 1253,
+    "violations": 3
+  }
+}
