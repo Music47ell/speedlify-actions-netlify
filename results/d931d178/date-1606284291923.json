@@ -1,0 +1,46 @@
+{
+  "url": "https://webhint.io/",
+  "requestedUrl": "https://webhint.io/",
+  "timestamp": 1606285265964,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 397
+  },
+  "firstContentfulPaint": 1672.003,
+  "speedIndex": 1695.853485999895,
+  "largestContentfulPaint": 2333.0029999999997,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 0.03531836160024007,
+  "timeToInteractive": 2617.177499999999,
+  "maxPotentialFirstInputDelay": 74,
+  "timeToFirstByte": 67.73400000000001,
+  "weight": {
+    "summary": "19 requests • 167 KiB",
+    "total": 170844,
+    "image": 32063,
+    "imageCount": 9,
+    "script": 46420,
+    "scriptCount": 2,
+    "document": 5690,
+    "font": 73140,
+    "fontCount": 4,
+    "stylesheet": 13531,
+    "stylesheetCount": 3,
+    "thirdParty": 50775,
+    "thirdPartyCount": 2
+  },
+  "axe": {
+    "passes": 431,
+    "violations": 1
+  }
+}
