@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/gdpr-ccpa/",
+  "requestedUrl": "https://www.netlify.com/gdpr-ccpa/",
+  "timestamp": 1606543989589,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 5,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1346.83,
+  "speedIndex": 1560.3152600000167,
+  "largestContentfulPaint": 1957.055,
+  "totalBlockingTime": 30.000000000000227,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3779.8825000000006,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 312.618,
+  "weight": {
+    "summary": "31 requests • 286 KiB",
+    "total": 292996,
+    "image": 48709,
+    "imageCount": 7,
+    "script": 153748,
+    "scriptCount": 12,
+    "document": 37782,
+    "font": 47914,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 153403,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 947,
+    "violations": 1
+  }
+}
