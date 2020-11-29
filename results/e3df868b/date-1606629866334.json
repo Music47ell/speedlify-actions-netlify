@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/for/ecommerce/",
+  "requestedUrl": "https://www.netlify.com/for/ecommerce/",
+  "timestamp": 1606630217912,
+  "ranks": {
+    "hundos": 8,
+    "performance": 15,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1402.409,
+  "speedIndex": 1480.6686495590511,
+  "largestContentfulPaint": 2406.051,
+  "totalBlockingTime": 27.999999999999545,
+  "cumulativeLayoutShift": 0.049775933159722216,
+  "timeToInteractive": 4676.694499999999,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 237.68199999999996,
+  "weight": {
+    "summary": "37 requests • 436 KiB",
+    "total": 446501,
+    "image": 168831,
+    "imageCount": 12,
+    "script": 154287,
+    "scriptCount": 12,
+    "document": 70355,
+    "font": 47914,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 154176,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 1415,
+    "violations": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://gulpjs.com/",
+  "requestedUrl": "https://gulpjs.com/",
+  "timestamp": 1606630942600,
+  "ranks": {
+    "hundos": 4,
+    "performance": 8,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 370
+  },
+  "firstContentfulPaint": 2461.219,
+  "speedIndex": 3152.4391085299376,
+  "largestContentfulPaint": 2878.32,
+  "totalBlockingTime": 133.49999999999955,
+  "cumulativeLayoutShift": 0.04727397070990669,
+  "timeToInteractive": 4193.999,
+  "maxPotentialFirstInputDelay": 257.9999999999991,
+  "timeToFirstByte": 247.42200000000003,
+  "weight": {
+    "summary": "61 requests • 1,159 KiB",
+    "total": 1187034,
+    "image": 948279,
+    "imageCount": 31,
+    "script": 182177,
+    "scriptCount": 12,
+    "document": 4562,
+    "font": 19376,
+    "fontCount": 2,
+    "stylesheet": 18859,
+    "stylesheetCount": 4,
+    "thirdParty": 799912,
+    "thirdPartyCount": 21
+  },
+  "axe": {
+    "passes": 480,
+    "violations": 1
+  }
+}
