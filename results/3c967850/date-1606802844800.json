@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/with/gatsby/",
+  "requestedUrl": "https://www.netlify.com/with/gatsby/",
+  "timestamp": 1606803003064,
+  "ranks": {
+    "hundos": 4,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1444.13,
+  "speedIndex": 1444.13,
+  "largestContentfulPaint": 1444.13,
+  "totalBlockingTime": 114.20149999999967,
+  "cumulativeLayoutShift": 0.04258094618055555,
+  "timeToInteractive": 4006.3225,
+  "maxPotentialFirstInputDelay": 118.99999999999955,
+  "timeToFirstByte": 12.942,
+  "weight": {
+    "summary": "33 requests • 318 KiB",
+    "total": 325914,
+    "image": 50197,
+    "imageCount": 9,
+    "script": 154217,
+    "scriptCount": 12,
+    "document": 68945,
+    "font": 47918,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 153244,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 1404,
+    "violations": 6
+  }
+}
