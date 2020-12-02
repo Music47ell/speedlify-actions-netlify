@@ -1,0 +1,46 @@
+{
+  "url": "https://webdriver.io/",
+  "requestedUrl": "https://webdriver.io/",
+  "timestamp": 1606890220876,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.53,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 302
+  },
+  "firstContentfulPaint": 3036.6509999999994,
+  "speedIndex": 4150.523570496395,
+  "largestContentfulPaint": 3668.571999999999,
+  "totalBlockingTime": 676.5,
+  "cumulativeLayoutShift": 0.3030096253333066,
+  "timeToInteractive": 12200.660000000002,
+  "maxPotentialFirstInputDelay": 485,
+  "timeToFirstByte": 23.450999999999993,
+  "weight": {
+    "summary": "82 requests • 1,976 KiB",
+    "total": 2023464,
+    "image": 967959,
+    "imageCount": 42,
+    "script": 820711,
+    "scriptCount": 20,
+    "document": 107138,
+    "font": 14721,
+    "fontCount": 1,
+    "stylesheet": 106268,
+    "stylesheetCount": 4,
+    "thirdParty": 1106144,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "passes": 855,
+    "violations": 68
+  }
+}
