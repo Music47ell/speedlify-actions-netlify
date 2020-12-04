@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netlify.com/donation-matching/",
+  "requestedUrl": "https://www.netlify.com/donation-matching/",
+  "timestamp": 1607062283590,
+  "ranks": {
+    "hundos": 17,
+    "performance": 12,
+    "accessibility": 11,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 385
+  },
+  "firstContentfulPaint": 1390.6829999999998,
+  "speedIndex": 1416.0349167205352,
+  "largestContentfulPaint": 2321.582,
+  "totalBlockingTime": 26.5,
+  "cumulativeLayoutShift": 0.19321502516004774,
+  "timeToInteractive": 4017.435499999999,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 96.315,
+  "weight": {
+    "summary": "31 requests • 287 KiB",
+    "total": 293511,
+    "image": 48678,
+    "imageCount": 7,
+    "script": 154013,
+    "scriptCount": 12,
+    "document": 38127,
+    "font": 47917,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 153746,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 946,
+    "violations": 1
+  }
+}
