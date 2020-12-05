@@ -1,0 +1,46 @@
+{
+  "url": "https://mochajs.org/",
+  "requestedUrl": "https://mochajs.org/",
+  "timestamp": 1607149372241,
+  "ranks": {
+    "hundos": 7,
+    "performance": 5,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 0.76,
+    "bestPractices": 1,
+    "seo": 0.66,
+    "total": 337
+  },
+  "firstContentfulPaint": 2189.322,
+  "speedIndex": 3134.1469677069363,
+  "largestContentfulPaint": 2220.322,
+  "totalBlockingTime": 148,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3751.284,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 161.50799999999998,
+  "weight": {
+    "summary": "6 requests • 128 KiB",
+    "total": 131449,
+    "image": 2267,
+    "imageCount": 3,
+    "script": 41524,
+    "scriptCount": 1,
+    "document": 84332,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3326,
+    "stylesheetCount": 1,
+    "thirdParty": 43791,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 8851,
+    "violations": 914
+  }
+}
