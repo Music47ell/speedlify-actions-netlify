@@ -1,0 +1,50 @@
+{
+  "url": "https://www.netlify.com/with/wordpress/",
+  "requestedUrl": "https://www.netlify.com/with/wordpress/",
+  "timestamp": 1608012520570,
+  "ranks": {
+    "hundos": 9,
+    "performance": 7,
+    "accessibility": 10,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 388
+  },
+  "firstContentfulPaint": 1262.083,
+  "speedIndex": 1282.2327058049527,
+  "largestContentfulPaint": 1274.25,
+  "totalBlockingTime": 36,
+  "cumulativeLayoutShift": 0.057458695305718316,
+  "timeToInteractive": 3853.6079999999993,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 205.651,
+  "weight": {
+    "summary": "32 requests • 319 KiB",
+    "total": 326458,
+    "image": 40501,
+    "imageCount": 7,
+    "script": 155390,
+    "scriptCount": 12,
+    "document": 72410,
+    "font": 53164,
+    "fontCount": 5,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 155111,
+    "thirdPartyCount": 23
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1321,
+    "violations": 1
+  }
+}
