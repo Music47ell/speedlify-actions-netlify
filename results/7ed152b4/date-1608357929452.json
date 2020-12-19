@@ -1,0 +1,50 @@
+{
+  "url": "https://www.netlify.com/with/drupal/",
+  "requestedUrl": "https://www.netlify.com/with/drupal/",
+  "timestamp": 1608357974410,
+  "ranks": {
+    "hundos": 4,
+    "performance": 14,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1825.1019999999999,
+  "speedIndex": 1865.5216119999925,
+  "largestContentfulPaint": 1920.1934999999999,
+  "totalBlockingTime": 148.5,
+  "cumulativeLayoutShift": 0.0002512283325195312,
+  "timeToInteractive": 5125.212500000001,
+  "maxPotentialFirstInputDelay": 251,
+  "timeToFirstByte": 220.058,
+  "weight": {
+    "summary": "36 requests • 537 KiB",
+    "total": 549656,
+    "image": 173007,
+    "imageCount": 8,
+    "script": 242800,
+    "scriptCount": 14,
+    "document": 75878,
+    "font": 53144,
+    "fontCount": 5,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 242118,
+    "thirdPartyCount": 27
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1372,
+    "violations": 2
+  }
+}
