@@ -1,0 +1,50 @@
+{
+  "url": "https://jamstackconf.com/",
+  "requestedUrl": "https://jamstackconf.com/",
+  "timestamp": 1608704193789,
+  "ranks": {
+    "hundos": 14,
+    "performance": 1,
+    "accessibility": 18,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 906.208,
+  "speedIndex": 939.8531702496709,
+  "largestContentfulPaint": 1741.2040000000002,
+  "totalBlockingTime": 65.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2366.513,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 10.49799999999999,
+  "weight": {
+    "summary": "16 requests • 175 KiB",
+    "total": 178753,
+    "image": 33925,
+    "imageCount": 2,
+    "script": 61440,
+    "scriptCount": 3,
+    "document": 12709,
+    "font": 62840,
+    "fontCount": 5,
+    "stylesheet": 7245,
+    "stylesheetCount": 3,
+    "thirdParty": 124085,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 770,
+    "violations": 16
+  }
+}
