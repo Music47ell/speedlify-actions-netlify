@@ -1,0 +1,50 @@
+{
+  "url": "https://www.netlify.com/resources/webinars/a-drupal-journey-to-the-jamstack/",
+  "requestedUrl": "https://www.netlify.com/webinar/a-drupal-journey-to-the-jamstack/",
+  "timestamp": 1609481462249,
+  "ranks": {
+    "hundos": 3,
+    "performance": 7,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.96,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1107.0720000000001,
+  "speedIndex": 1107.0720000000001,
+  "largestContentfulPaint": 1308.2020000000002,
+  "totalBlockingTime": 254.49999999999955,
+  "cumulativeLayoutShift": 0.00013855743408203123,
+  "timeToInteractive": 4487.9130000000005,
+  "maxPotentialFirstInputDelay": 266.9999999999991,
+  "timeToFirstByte": 12.385,
+  "weight": {
+    "summary": "37 requests • 333 KiB",
+    "total": 341238,
+    "image": 13511,
+    "imageCount": 9,
+    "script": 242969,
+    "scriptCount": 14,
+    "document": 38716,
+    "font": 40973,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 242097,
+    "thirdPartyCount": 27
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 960,
+    "violations": 2
+  }
+}
