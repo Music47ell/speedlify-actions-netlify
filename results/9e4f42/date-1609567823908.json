@@ -1,0 +1,50 @@
+{
+  "url": "https://istanbul.js.org/",
+  "requestedUrl": "https://istanbul.js.org/",
+  "timestamp": 1609568924523,
+  "ranks": {
+    "hundos": 3,
+    "performance": 5,
+    "accessibility": 5,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 376
+  },
+  "firstContentfulPaint": 1745.2839999999999,
+  "speedIndex": 1745.2839999999999,
+  "largestContentfulPaint": 1745.2839999999999,
+  "totalBlockingTime": 337.0419999999999,
+  "cumulativeLayoutShift": 0.0011328125,
+  "timeToInteractive": 3833.803,
+  "maxPotentialFirstInputDelay": 465,
+  "timeToFirstByte": 36.166000000000004,
+  "weight": {
+    "summary": "10 requests • 534 KiB",
+    "total": 547129,
+    "image": 230419,
+    "imageCount": 3,
+    "script": 306542,
+    "scriptCount": 4,
+    "document": 8552,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1616,
+    "stylesheetCount": 1,
+    "thirdParty": 6371,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 171,
+    "violations": 13
+  }
+}
