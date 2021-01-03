@@ -1,0 +1,56 @@
+{
+  "url": "https://webdriver.io/",
+  "requestedUrl": "https://webdriver.io/",
+  "timestamp": 1609655402370,
+  "ranks": {
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 305
+  },
+  "firstContentfulPaint": 2659.6270000000004,
+  "speedIndex": 3560.1700354742666,
+  "largestContentfulPaint": 2696.7440000000006,
+  "totalBlockingTime": 1022.5000000000014,
+  "cumulativeLayoutShift": 0.3002297906240342,
+  "timeToInteractive": 12087.480999999998,
+  "maxPotentialFirstInputDelay": 535,
+  "timeToFirstByte": 10.564000000000021,
+  "weight": {
+    "summary": "82 requests • 1,987 KiB",
+    "total": 2034670,
+    "image": 968168,
+    "imageCount": 42,
+    "script": 829942,
+    "scriptCount": 20,
+    "document": 108648,
+    "font": 14720,
+    "fontCount": 1,
+    "stylesheet": 106567,
+    "stylesheetCount": 4,
+    "thirdParty": 1117346,
+    "thirdPartyCount": 42
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 856,
+    "violations": 68
+  },
+  "previousRanks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 10
+  }
+}
