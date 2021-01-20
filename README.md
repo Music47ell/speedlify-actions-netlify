@@ -34,4 +34,4 @@ Here's a [list of cron examples](https://crontab.guru/examples.html)
 
 [Demo site](https://speedlify-actions-netlify.netlify.app/).
 
-Read more about this repository [in my article](https://www.news47ell.com/projects/speedlify-actions-vercel/).
+Read more about this repository [in my article](https://www.news47ell.com/projects/speedlify-actions-netlify/).
